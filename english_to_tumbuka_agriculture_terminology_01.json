@@ -1,0 +1,914 @@
+[
+    {
+        "english": "100 Farm Terms to Help You Understand Farming Better",
+        "tumbuka": "Malango 100 gha pa Famu agho ghangamovwirani kuti mupulikiske makora vya ulimi"
+    },
+    {
+        "english": "Buzzwords abound in agriculture, in the grocery store, and in any conversation about health or where to get your food. Even the simplest terms can be misunderstood. They are also easily forgotten if you are not using them or surrounded by them every day. ",
+        "tumbuka": "Mazgu ghakumanyikwa comene ghakusangika mu ulimi, mu sitoro, na mu kudumbiskana kulikose kwakukhwaskana na umoyo panji uko mungasanga cakurya cinu. Nanga ni mazgu ghambura kusuzga ghangapulikiskika makora yayi. Kweniso vikuluwika luŵiro usange mukuvigwiliskira ntchito yayi panji mukuzingilizgika navyo zuŵa lililose."
+    },
+    {
+        "english": "So, I thought I would give you a glossary of farm terms including the top 100 (plus) terms that you need to know in order to understand farming and make better decisions when navigating issues related to your your food, your environment, your economy, and your health. I will likely link to this list to other articles and podcast episodes, and even add to it as needed. This glossary of farm terms is intended as a reference tool to refer to when reading, talking, digesting social media, listening to podcasts, etc. I hope it helps you!",
+        "tumbuka": "Ntheura, nkhaghanaghana kuti nimupani glossary ya mazgu gha pa famu kusazgapo mazgu ghapachanya 100 (plus) agho mukwenera kumanya kuti mupulikiske ulimi na kusankha makora para mukulongozga nkhani zakukhwaskana na vyakurya vinu, malo ghinu, chuma chinu, na umoyo winu. Nikwenera kuti nizamukoleska mndandanda uwu na nkhani zinyake na vigaŵa vya podcast, ndiposo nanga nkhusazgirako para vikukhumbikwa. Glossary iyi ya mazgu gha pa famu yikupangika kuti yiŵe chida chakuwonerapo para mukuŵazga, kuyowoya, kugaya pa social media, kutegherezga ma podcast, na vinyake Nkhugomezga kuti vimovwirani!"
+    },
+    {
+        "english": "Agroforestry",
+        "meaning": "An agricultural practice that involves integrating trees with crops or livestock to create a sustainable and productive system.",
+        "tumbuka": "Ulimi wa wakusazga makuni, viweto na mbewu",
+        "ng'anamulo": "Nthowa ya ulimi iyo yikusazgapo kusazgako makuni na vyakulima panji viŵeto kuti paŵe ndondomeko yakukhalilira na yakupambika."
+    },
+    {
+        "english": "Agritourism",
+        "meaning": "The practice of attracting visitors to a farm for educational, recreational, or entertainment purposes",
+        "tumbuka": "Ulimi wakukopa walendo",
+        "ng'anamulo": "Ntchito yakukopa ŵalendo ku famu kuti ŵasambire, kusangalala, panji kusangalala ."
+    },
+    {
+        "english": "Alpaca",
+        "meaning": "A domesticated South American mammal, valued for its soft and luxurious fiber.",
+        "tumbuka": "Alpaca",
+        "ng'anamulo": "Nyama yakuŵeta ya ku South America, iyo yikuwoneka kuti njakuzirwa chifukwa chakuti yili na ulusi wakufewa ndiposo wakutowa."
+    },
+    {
+        "english": "Annuals",
+        "meaning": "Plants that complete their life cycle within one growing season, from seed germination to flowering and seed production.",
+        "tumbuka": "Vyakumera vya pa chaka",
+        "ng'anamulo": "Vyakumera ivyo vikumalizga umoyo wawo mu nyengo yimoza yakukura, kufuma pa kumera kwa mbuto m'paka pa maluŵa na kupanga mbuto."
+    },
+    {
+        "english": "Apiary",
+        "meaning": "A place where beehives are kept for the production of honey and other bee products.",
+        "tumbuka": "Malo yakusungila Njuchi",
+        "ng'anamulo": "Malo agho ŵakusungirako viŵaya vya njuchi kuti ŵapange uchi na vinthu vinyake vya njuchi."
+    },
+    {
+        "english": "Aquaculture",
+        "meaning": "The farming of aquatic organisms, such as fish, shrimp, or mollusks, in controlled environments for commercial purposes.",
+        "tumbuka": "ulimi wa Somba",
+        "ng'anamulo": "Kulima vyamoyo vya mu maji, nga ni somba, shrimp, panji vinyama vyakuchemeka mollusks, mu malo ghakulaŵilirika kuti ŵachitenge malonda."
+    },
+    {
+        "english": "Aquaponics",
+        "meaning": "A farming method that combines aquaculture (raising fish) and hydroponics (cultivating plants in water) in a symbiotic environment.",
+        "tumbuka": "Ulimi wa Somba na mbewu mu maji",
+        "ng'anamulo": "Nthowa ya ulimi iyo yikusazgako vyakulima vya mu maji (kulera somba) na vyakumera vya mu maji (kulima vyakumera mu maji) mu malo ghakukhala pamoza."
+    },
+    {
+        "english": "Baler",
+        "meaning": "A machine used in agriculture to compress and bundle crops, such as hay or straw, into manageable and transportable units.",
+        "tumbuka": "Makina yakufyenyela utheka nyengo zinyake mapes mu mpukutu",
+        "ng'anamulo": "Makina agho ŵakugwiliskira ntchito pa ulimi kuti ŵafinyikizge na kuwunganya vipambi, nga ni utheka panji utheka, kuti viŵe vyakwenelera na vyakunyamulika."
+    },
+    {
+        "english": "Biodegradable",
+        "meaning": "Capable of being decomposed by natural processes, typically referring to materials that can break down into harmless substances in the environment.",
+        "tumbuka": "Kuvundila mu chilengiwe",
+        "ng'anamulo": "Vikukwaniska kuvunda chifukwa cha vinthu vyachilengiwa, chomenechomene vikung'anamura vinthu ivyo vingavunda na kuŵa vinthu vyambura kupweteka ivyo vili mu chilengiwa."
+    },
+    {
+        "english": "Biodynamic farming",
+        "meaning": "An organic farming approach that emphasizes the holistic management of the farm ecosystem and incorporates spiritual and cosmic influences.",
+        "tumbuka": "Ulimi wa chilengiwa",
+        "ng'anamulo": "Nthowa ya ulimi wa vinyama iyo yikukhozgera kulongozga kwakukwana kwa vyakumera vya mu famu na kusazgapo vinthu vyauzimu na vya chilengiwa."
+    },
+    {
+        "english": "Biodiversity",
+        "meaning": "The variety of living organisms in a particular ecosystem, including plants, animals, and microorganisms.",
+        "tumbuka": "chilengiwe vyakupambana pambana",
+        "ng'anamulo": "Mitundu ya vyamoyo ivyo vili mu malo ghanyake, kusazgapo vyakumera, vinyama, na tumalukwa tuchokotuchoko."
+    },
+    {
+        "english": "Biotechnology",
+        "meaning": "The use of living organisms, such as microorganisms or genetically engineered crops, in technology, medicine, and other fields.",
+        "tumbuka": "kagwiliskilo ntchito ka chilengiwa mu vinthu vyamakono",
+        "ng'anamulo": "Kugwiliskira ntchito vyamoyo, nga ni tumalukwa tuchokotuchoko panji vyakumera ivyo vyasinthika, mu vya tekinoloje, munkhwala, na vinyake."
+    },
+    {
+        "english": "Canopy",
+        "meaning": "The uppermost layer of vegetation in a forest or crop stand, consisting of the branches and leaves of trees and plants.",
+        "tumbuka": "Pachanya pa makuni na thondo",
+        "ng'anamulo": "Chigaŵa cha pachanya chomene cha vyakumera mu nkhalango panji mu malo ghakulimapo vipambi, icho chili na nthambi na mahamba gha makuni na vyakumera."
+    },
+    {
+        "english": "Carbon footprint",
+        "meaning": "The total amount of greenhouse gases, especially carbon dioxide, emitted directly or indirectly as a result of human activities.",
+        "tumbuka": "Unandi wa muvuchi mu nyumba za ulimi",
+        "ng'anamulo": "Mpweya wose uwo ukupangiska kuti charu chiŵe chakotcha, chomenechomene carbon dioxide, uwo ukufumiskika mwachindunji panji mwambura kumanyikwa chifukwa cha ivyo ŵanthu ŵakuchita."
+    },
+    {
+        "english": "Catch crops",
+        "meaning": "Quick-growing crops planted between main crops to utilize residual nutrients, control weeds, and prevent soil erosion.",
+        "tumbuka": "Vilimika vyamalonda",
+        "ng'anamulo": "Vilimika ivyo vikukura mwaluŵiro ivyo vikupanda pakati pa vipambi vikuruvikuru kuti vigwiriskirenge nchito vyakurya ivyo vyakhalako, kuvikilira utheka, na kuvikilira kusefukira kwa dongo."
+    },
+    {
+        "english": "Compost",
+        "meaning": "Decayed organic matter used as a natural fertilizer and soil amendment.",
+        "tumbuka": "Kuvunda kwa vinthu vyachilengiwe",
+        "ng'anamulo": "Vinthu vyakuvunda ivyo vikugwiriskirika nchito nga ni feteleza wa chilengiwa na kusintha dongo."
+    },
+    {
+        "english": "Conservation tillage",
+        "meaning": "A set of practices that minimize soil disturbance during tillage, such as no-till or reduced tillage, to improve soil health and reduce erosion.",
+        "tumbuka": "Kulima mwakusunga",
+        "ng'anamulo": "Nthowa izo zikuchepeska kuti dongo lileke kusokonezgeka pa nyengo yakulima, nga nkhulima yayi panji kuchepeska kulima, kuti dongo liŵe liwemi na kuchepeska kusefukira kwa dongo."
+    },
+    {
+        "english": "Cover crop",
+        "meaning": "A crop grown primarily to protect and enrich the soil rather than for harvest, often planted between cash crops. Listen to this Talk Farm to Me episode featuring Rick Clark from Indiana and his use of cover crops. ",
+        "tumbuka": "Chilimika chakubenekelera",
+        "ng'anamulo": "Chilimika icho chikulimika chomenechomene kuti chivikilire na kukhozga dongo m'malo mwa kuvuna, kanandi chikupanda pakati pa vipambi vya ndalama. Tegherezgani ku chigaŵa ichi cha Talk Farm to Me icho chikulongora Rick Clark wa ku Indiana na kugwiliskira ntchito kwake vyakulima vyakubenekelera."
+    },
+    {
+        "english": "Crop diversity",
+        "meaning": "The presence of a wide variety of different crop species or varieties within a farming system, enhancing resilience and reducing the risk of crop failure.",
+        "tumbuka": "Kupambanapambana kwa vipambi",
+        "ng'anamulo": "Kuŵapo kwa mitundu yakupambanapambana ya vipambi panji mitundu ya vipambi mukati mwa ndondomeko ya ulimi, kukhozga nkhongono na kuchepeska ngozi ya kutondeka kwa vipambi."
+    },
+    {
+        "english": "Crop insurance",
+        "meaning": "A financial protection mechanism for farmers that compensates for crop losses due to factors like weather, pests, or disease.",
+        "tumbuka": "Inshuwalansi ya vipambi",
+        "ng'anamulo": "Nthowa yakuvikilira ŵalimi pa ndalama iyo yikulipira vipambi ivyo vyatayika chifukwa cha vinthu nga ni nyengo, vinyama vyakukhwaskana na vipambi, panji matenda."
+    },
+    {
+        "english": "Crop rotation",
+        "meaning": "The practice of growing different crops in a specific sequence on the same piece of land to prevent soil nutrient depletion and reduce pest and disease pressure.",
+        "tumbuka": "Kusinthana kwa vipambi",
+        "ng'anamulo": "Nthowa yakulima vipambi vyakupambanapambana mu ndondomeko yinyake pa malo ghamoza kuti vyakurya vya mu dongo vileke kumara na kuchepeska vinyama na matenda."
+    },
+    {
+        "english": "Crop yield",
+        "meaning": "The amount of agricultural produce harvested per unit of land area, often measured in weight or volume.",
+        "tumbuka": "Vipambi vya vipambi",
+        "ng'anamulo": "Vipambi vya ulimi ivyo vikuvunwa pa unit yiliyose ya malo, kanandi vikupimika na kulemera panji unandi wake."
+    },
+    {
+        "english": "CSA (Community Supported Agriculture)",
+        "meaning": "A system in which consumers purchase shares or subscriptions from a local farm and receive regular deliveries of fresh produce throughout the growing season.",
+        "tumbuka": "Ulimi wakovyilika na muzi",
+        "ng'anamulo": "Nthowa iyo ŵakugula ŵakugulira magawo panji kulembeska kufuma ku famu ya mu chigaŵa chawo ndipo ŵakupokera vyakumera viphya nyengo zose mu nyengo yose yakukura."
+    },
+    {
+        "english": "Cultivar",
+        "meaning": "A cultivated variety of a plant species that has been developed or selected for specific characteristics, such as improved yield, disease resistance, or flavor.",
+        "tumbuka": "Mbewu yakusoleka",
+        "ng'anamulo": "Mtundu wakulimika wa mtundu wa chakumera uwo wapangika panji kusankhika kuti uŵe na mikhaliro yinyake, nga nkhupambika makora, kukana matenda, panji kunowa."
+    },
+    {
+        "english": "Dairy farming",
+        "meaning": "The production of milk and dairy products from cows, goats, sheep, or other milk-producing animals.",
+        "tumbuka": "Ulimi wa mkaka",
+        "ng'anamulo": "Kupanga mkaka na vyakupangika na mkaka kufuma ku ng'ombe, mbuzi, mberere, panji vinyama vinyake ivyo vikupanga mkaka."
+    },
+    {
+        "english": "Deciduous",
+        "meaning": "Referring to trees or plants that shed their leaves annually in the fall in response to changing seasons.",
+        "tumbuka": "Makuni yakukonkhomola (kuwiska) mamba yawo pa chaka",
+        "ng'anamulo": "Kuyowoya za makuni panji vyakumera ivyo vikutaya mahamba ghawo chaka chilichose mu nyengo ya kugwa chifukwa cha kusintha kwa nyengo."
+    },
+    {
+        "english": "Drip irrigation",
+        "meaning": "A method of watering crops by delivering water directly to the roots through a network of tubes and emitters, minimizing water waste.",
+        "tumbuka": "Kuthilira maji ghakudontha",
+        "ng'anamulo": "Nthowa yakuthilira vipambi mwa kupeleka maji mwaluŵiro ku misisi kwizira mu machubu na vyakufumiska maji, ndipo ivi vikupangiska kuti maji ghaleke kutayika."
+    },
+    {
+        "english": "Dry farming",
+        "meaning": "A method of crop cultivation in arid or semi-arid regions that relies on natural rainfall and moisture conservation techniques rather than irrigation.",
+        "tumbuka": "Ulimi wakuuma",
+        "ng'anamulo": "Nthowa yakulima vipambi mu malo ghakuwomira panji ghakuwomira pafupifupi iyo yikuthemba pa vula ya chilengiwa na nthowa zakusungirako chinyezi m'malo mwa kuthilira."
+    },
+    {
+        "english": "Ecological footprint",
+        "meaning": "The measure of human demand on nature's resources and ecosystems, representing the area of land and water required to support a particular lifestyle or activity.",
+        "tumbuka": "Kupima kudalila kwa munthu pa malo ayo wakukhala",
+        "ng'anamulo": "Muyeso wa ivyo ŵanthu ŵakukhumba pa vinthu vya chilengiwa na vyakumera, ivyo vikwimira malo gha charu na maji agho ghakukhumbikwa kuti ghawovwire umoyo panji ntchito yinyake."
+    },
+    {
+        "english": "Farm-to-table",
+        "meaning": "A movement promoting the direct supply of locally produced food from the farm to consumers, minimizing the involvement of intermediaries.",
+        "tumbuka": "Kufumila ku kufika pa thebulo",
+        "ng'anamulo": "Gulu ilo likukhozgera kupeleka kwa vyakurya ivyo vikupangika mu malo agha mwaluŵiro kufuma ku famu ku ŵamalonda, ndipo ivi vikupangiska kuti ŵamalonda ŵaleke kunjilirapo."
+    },
+    {
+        "english": "Farmer's market",
+        "meaning": "A physical marketplace where local farmers sell fresh produce, meats, dairy products, and other agricultural goods directly to consumers.",
+        "tumbuka": "Msika wa ŵalimi",
+        "ng'anamulo": "Msika wakuwoneka uwo ŵalimi ŵa ku malo agha ŵakuguliskako vyakumera viphya, nyama, vyakupangika na mkaka, na vinthu vinyake vya ulimi mwaluŵiro ku ŵakugula."
+    },
+    {
+        "english": "Fertilizer",
+        "meaning": "Substances added to soil or plants to provide essential nutrients that are necessary for plant growth and productivity.",
+        "tumbuka": "Feteleza",
+        "ng'anamulo": "Vinthu ivyo vikuŵikika mu dongo panji vyakumera kuti viŵe na vyakurya vyakuzirwa ivyo vikukhumbikwa kuti vyakumera vikule na kupanga vipambi vinandi."
+    },
+    {
+        "english": "Food desert",
+        "meaning": "An area with limited access to affordable and nutritious food, often due to a lack of grocery stores or fresh food retailers.",
+        "tumbuka": "Mapopa gha vyakurya",
+        "ng'anamulo": "Mapopa gha vyakurya: Malo agho ghakusangika viŵi yayi vyakurya vyakudura na vyakukhozga thupi, kanandi chifukwa cha kusoŵa kwa masitolo panji ŵakuguliska vyakurya viphya."
+    },
+    {
+        "english": "Food hub",
+        "meaning": "An organization or facility that coordinates the aggregation, distribution, and marketing of locally produced food from multiple farmers or food producers.",
+        "tumbuka": "Nkhokwe ya vyakulya",
+        "ng'anamulo": "Bungwe panji malo agho ghakulongozga kuwunganya, kugaŵira, na kuguliska vyakurya ivyo vikupangika mu charu ichi kufuma ku ŵalimi ŵanandi panji awo ŵakupanga vyakurya."
+    },
+    {
+        "english": "Food miles",
+        "meaning": "The distance food travels from the farm to the consumer, often used as an indicator of environmental impact and sustainability.",
+        "tumbuka": "Mailosi gha vyakulya",
+        "ng'anamulo": "Mtunda uwo vyakurya vikwenda kufuma ku famu kuya ku wakugula, kanandi vikugwiriskirika nchito nga ntchilongolero cha umo vikukhwaskira chilengiwa na umo vikukhalilira."
+    },
+    {
+        "english": "Food security",
+        "meaning": "The state of having reliable access to a sufficient quantity of affordable, nutritious food.",
+        "tumbuka": "Kuvikilirika kwa vyakulya",
+        "ng'anamulo": "Kuŵa na mwaŵi wakugomezgeka wa kusanga vyakurya vyakukwana vyambura kudura, vyakukhozga thupi."
+    },
+    {
+        "english": "Food sovereignty",
+        "meaning": "The right of individuals, communities, and countries to have control over their own food systems, including the ability to determine agricultural policies and practices.",
+        "tumbuka": "Kujiyimira paŵekha pa vyakulya",
+        "ng'anamulo": "Wanangwa wa munthu waliyose, mitundu, na vyaru kuti viŵe na mazaza pa vyakurya vyawo, kusazgapo kuŵa na nkhongono zakusankha ndondomeko na ndondomeko za ulimi."
+    },
+    {
+        "english": "Free-range",
+        "meaning": "A farming system that allows animals, such as chickens or pigs, to roam and forage freely outdoors.",
+        "tumbuka": "Viweto vyambula nkhola",
+        "ng'anamulo": "Nthowa ya ulimi iyo yikupangiska kuti vinyama, nga ni nkhuku panji nkhumba, viyenderenge na kupenja vyakurya kuwaro."
+    },
+    {
+        "english": "Genetic diversity",
+        "meaning": "The variation in genes and genetic traits within a population, species, or ecosystem.",
+        "tumbuka": "Kupambana kwa mbuto",
+        "ng'anamulo": "Kupambana kwa majini na mikhaliro ya majini mukati mwa chiŵelengero cha ŵanthu, mtundu, panji chilengedwe."
+    },
+    {
+        "english": "Glyphosate",
+        "meaning": "A widely used herbicide in agriculture, although its potential link to cancer is the subject of ongoing studies and lawsuits.",
+        "tumbuka": "Mankhala ya viswaswa mu munda",
+        "ng'anamulo": "Munkhwala wakukoma mphukira uwo ukugwiriskirika ncito comene pa ulimi, nangauli ungakolerana na kansa, ndipo ŵakulutilira kusambira na kuzenga mulandu."
+    },
+    {
+        "english": "GMO (Genetically Modified Organism)",
+        "meaning": "Organisms whose genetic material has been altered in a way that does not occur naturally through mating or natural recombination. For more information on GMOs, download this GMO Fact Sheet.",
+        "tumbuka": "Kuŵika chakumera chinyake",
+        "ng'anamulo": "Vyamoyo ivyo majini ghawo ghasinthika mu nthowa iyo yikuchitika yayi mwachilengiwa kwizira mu kugonana panji kusazgaso mwachilengiwa. Kuti mumanye vinandi vyakukhwaskana na GMO, dawunilodini Pepala ili la GMO."
+    },
+    {
+        "english": "Grafting",
+        "meaning": "A horticultural technique in which a part of one plant (the scion) is attached to another (the rootstock) to create a new plant with combined desirable characteristics.",
+        "tumbuka": "Kubangha mitundu yibili ya makuni pamozo",
+        "ng'anamulo": "Nthowa yakulima iyo chigaŵa chinyake cha chakumera chimoza (scion) chikuŵikika pa chinyake (misisi) kuti chiŵe chakumera chiphya icho chili na mikhaliro yakukhumbikwa yakusazgikana."
+    },
+    {
+        "english": "Green manure",
+        "meaning": "Crops, usually legumes or certain grasses, planted specifically to improve soil fertility by adding organic matter when they are incorporated into the soil.",
+        "tumbuka": "Manyowa ghakubiriŵira",
+        "ng'anamulo": "Vilimika, kanandi vipambi vya mtundu wa legume panji utheka unyake, vikupanda mwakupambanapambana kuti dongo liŵe lakunozga mwa kusazgako vyakumera para vyasazgika mu dongo."
+    },
+    {
+        "english": "Greenhouse",
+        "meaning": "A structure with transparent walls and roof used to cultivate plants, providing controlled environmental conditions.",
+        "tumbuka": "Nyumba yakusunga nkongono za Zuba",
+        "ng'anamulo": "Nyumba iyo yili na makhoma ghakuwonekera ndiposo padenga lake likugwiriskirika nchito pakulima vyakumera, ndipo yikupereka malo ghakulaŵilirika."
+    },
+    {
+        "english": "Harvest",
+        "meaning": "The process of gathering crops or produce from the field when they are mature and ready for consumption or further processing.",
+        "tumbuka": "Vuna",
+        "ng'anamulo": "Nthowa yakuwunganya vipambi panji vyakumera ivyo vikufuma mu munda para vyakhwima ndipo vyanozgeka kurya panji kuvinozgaso."
+    },
+    {
+        "english": "Harvesting equipment",
+        "meaning": "Machinery used to gather and collect mature crops for further processing or storage.",
+        "tumbuka": "Vinthu vyakuvunila",
+        "ng'anamulo": "Makina agho ghakugwiriskira nchito pakuwunganya na kuwunganya vipambi vyakukhwima kuti ŵalutilire kupanga panji kusunga."
+    },
+    {
+        "english": "Heifer",
+        "meaning": "A young female cow that has not yet given birth to calves.",
+        "tumbuka": "Kamwana ka ng'ombe kanakazi",
+        "ng'anamulo": "Ng'ombe yanakazi iyo yindababike ŵana ŵa ng'ombe."
+    },
+    {
+        "english": "Heirloom seeds",
+        "meaning": "Traditional open-pollinated seed varieties that have been passed down through generations and preserved for their unique characteristics.",
+        "tumbuka": "Mbewu za chiharo",
+        "ng'anamulo": "Mitundu ya mbuto za chikhalidwe izo zikupangika na pollen zakujulika izo zajumpha mu mibadwo na kusungika chifukwa cha mikhaliro yake yapadera."
+    },
+    {
+        "english": "Heirloom vegetables",
+        "meaning": "Open-pollinated vegetable varieties that have been passed down through generations, often known for their unique flavors and appearances.",
+        "tumbuka": "Masamba ghakukhalira",
+        "ng'anamulo": "Mitundu ya masamba agho ghakupangika na pollination yakujulika ndipo ghali kupelekeka ku miwiro na miwiro, kanandi ghakumanyikwa chifukwa cha kunowa kwake kwapadera na kuwoneka kwake."
+    },
+    {
+        "english": "Herbicide",
+        "meaning": "A chemical substance used to control or eliminate unwanted plants (weeds) that compete with cultivated crops.",
+        "tumbuka": "Mankhala ya viswaswa mu munda",
+        "ng'anamulo": "Ni kemiko iyo yikugwiriskira nchito kuti yilekeske panji kuwuskapo vyakumera ivyo vikukhumbikwa yayi (utheka) ivyo vikuchita mpikisano na vyakumera ivyo vikulimika."
+    },
+    {
+        "english": "Holistic management",
+        "meaning": "An approach to farm management that considers the entire ecosystem, taking into account ecological, economic, and social factors for decision-making.",
+        "tumbuka": "Kulaŵilira kwakukwana",
+        "ng'anamulo": "Kulaŵilira kwakukwana: Nthowa yakulongozgera famu iyo yikughanaghanira vyakumera vyose, na kughanaghanira vyamoyo, chuma, na umoyo wa ŵanthu kuti ŵasankhepo."
+    },
+    {
+        "english": "Hoop house",
+        "meaning": "A type of greenhouse structure made of curved metal or plastic hoops covered with a translucent material, used to extend the growing season and protect crops from adverse weather.",
+        "tumbuka": "Nyumba ya ulimi yakwendela zuba",
+        "ng'anamulo": "Mtundu wa greenhouse uwo ukupangika na visulo vyakukhotakhota panji vingwe vya pulasitiki ivyo vikubenekelereka na chinthu icho chikuwonekera, ndipo ŵakugwiliskira ntchito kuti nyengo yakukura yiŵe yitali na kuvikilira vipambi ku nyengo ziheni."
+    },
+    {
+        "english": "Horticulture",
+        "meaning": "The science and practice of growing and cultivating plants, including fruits, vegetables, flowers, and ornamental plants.",
+        "tumbuka": "Ulimi wa vipaso nd maluwa",
+        "ng'anamulo": "Sayansi na ndondomeko ya kulima na kulima vyakumera, kusazgapo vipambi, mphangwe, maluŵa, na vyakumera vyakutowa."
+    },
+    {
+        "english": "Hydroponics",
+        "meaning": "A method of growing plants in a soil-less medium, using nutrient-rich water as the primary source of nutrients.",
+        "tumbuka": "Ulimi wambula dongo",
+        "ng'anamulo": "Nthowa yakulimira vyakumera mu malo ghambura dongo, kugwiliskira ntchito maji agho ghali na vyakurya vinandi nga ni nthowa yikuru yakusangira vyakurya."
+    },
+    {
+        "english": "Incubator farm",
+        "meaning": "A program or facility that provides aspiring farmers with access to land, infrastructure, and resources to start and develop their agricultural businesses.",
+        "tumbuka": "Kwakusambizgila ulimi",
+        "ng'anamulo": "Pulogalamu panji malo agho ghakupereka mwaŵi ku ŵalimi awo ŵakukhumba kuŵa ŵalimi kuti ŵaŵe na malo, vyakupangika, na vinthu vyakukhumbikwa kuti ŵambe na kutukula bizinesi yawo ya ulimi."
+    },
+    {
+        "english": "Integrated farming",
+        "meaning": "A farming system that integrates different components, such as crops, livestock, and aquaculture, in a synergistic manner to optimize resource use and productivity.",
+        "tumbuka": "Ulimi wakusazgako",
+        "ng'anamulo": "Nthowa ya ulimi iyo yikusazgako vigaŵa vyakupambanapambana, nga ni vyakulima, viŵeto, na vyakulima vya mu maji, mu nthowa yakukolerana kuti vinthu vigwiriskike nchito makora na kupanga vinthu vinandi."
+    },
+    {
+        "english": "Integrated pest management (IPM)",
+        "meaning": "Integrated pest management (IPM): An approach to pest control that combines various strategies such as biological control, cultural practices, and targeted pesticide use to minimize environmental impact.",
+        "tumbuka": "Integrated pest management (IPM)",
+        "ng'anamulo": "Nthowa yakuchizgira vinyama ivyo vikusazgako nthowa zakupambanapambana nga nkhuchizga vyamoyo, mitheto, na kugwiliskira ntchito munkhwala wakuchizgira vinyama kuti vileke kunanga chilengiwa."
+    },
+    {
+        "english": "Irrigation",
+        "meaning": "The artificial application of water to land or crops to assist with plant growth, especially in areas with insufficient rainfall.",
+        "tumbuka": "Kuthilira",
+        "ng'anamulo": "Kuthilira maji mwakupangika na ŵanthu pa malo panji pa vipambi kuti viwovwire vyakumera kukura, chomenechomene mu malo agho vula yikuwira yayi."
+    },
+    {
+        "english": "Landrace",
+        "meaning": "A local or regional variety of a crop that has evolved over time through adaptation to specific environmental conditions.",
+        "tumbuka": "Landrace",
+        "ng'anamulo": "Mtundu wa vipambi vya mu malo panji vya mu chigaŵa ivyo vyasintha mu nyengo yitali kwizira mu kusintha kwa malo ghanyake."
+    },
+    {
+        "english": "Livestock",
+        "meaning": "Farm animals, such as cattle, sheep, pigs, or poultry, raised for meat, milk, eggs, or other products.",
+        "tumbuka": "Viŵeto",
+        "ng'anamulo": "Viŵeto vya pa famu, nga ni ng'ombe, mberere, nkhumba, panji nkhuku, ivyo ŵakuviŵeta kuti ŵasange nyama, mkaka, mazira, panji vinthu vinyake."
+    },
+    {
+        "english": "Locavore",
+        "meaning": "A person who prefers to eat locally produced food, often for environmental and economic reasons.",
+        "tumbuka": "Munthu wokulya vyakuma vyake na vyamuzi wake",
+        "ng'anamulo": "Munthu uyo ​​wakutemwa kurya vyakurya ivyo vikupangika ku malo agha, kanandi chifukwa cha chilengiwa na chuma."
+    },
+    {
+        "english": "Micronutrients",
+        "meaning": "Essential nutrients required by plants in small quantities, including minerals such as iron, zinc, copper, and manganese.",
+        "tumbuka": "Vinthu vichokovichoko",
+        "ng'anamulo": "Vinthu vyakuzirwa ivyo vikukhumbikwa ku vyakumera mu unandi uchoko waka, kusazgapo minerals nga ni chisulo, zinc, mkuwa, na manganese."
+    },
+    {
+        "english": "Moisture meter",
+        "meaning": "A tool used to measure the moisture content of soil or other materials, helping farmers and gardeners determine when to water.",
+        "tumbuka": "Makina yakupimila unandi wa maji",
+        "ng'anamulo": "Chinthu icho ŵakugwiliskira ntchito pakupima chinyezi icho chili mu dongo panji vinthu vinyake, ndipo chikovwira ŵalimi na ŵalimi kumanya nyengo yakuthilira."
+    },
+    {
+        "english": "Mulch",
+        "meaning": "A protective layer of organic or inorganic material, such as straw or wood chips, placed on the soil surface to conserve moisture, suppress weeds, and regulate soil temperature.",
+        "tumbuka": "Kunthila mashinivi pachanya pa dongo",
+        "ng'anamulo": "Ntchito yakuvikilira vyamoyo panji vyambura kupangikarial, nga ni utheka panji vikuni, ivyo vikuŵikika pa dongo kuti vileke kuŵa na chinyezi, kuponderezga utheka, na kupangiska kuti dongo liŵe lakuzizima."
+    },
+    {
+        "english": "Natural farming",
+        "meaning": "A farming philosophy that emphasizes working in harmony with nature and avoiding the use of synthetic chemicals or interventions.",
+        "tumbuka": "Ulimi wa chilengiwa",
+        "ng'anamulo": "Ulimi wa chilengiwa: Filosofe ya ulimi iyo yikukhozgera kugwira ntchito mwakukolerana na chilengiwa na kupeŵa kugwiliskira ntchito makemikolo ghakupangika panji kunjilirapo."
+    },
+    {
+        "english": "Natural pest control",
+        "meaning": "The use of natural predators, parasites, or other organisms to manage pest populations and reduce the need for chemical pesticides.",
+        "tumbuka": "Kulimbana na vinyama vyacilengiwa",
+        "ng'anamulo": "Kugwiliskira nchito vinyama vyacilengiwa, vinyama vyakukhwaskana na vinyama, panji vyamoyo vinyake kuti vileke kuŵa na vinyama vinandi na kucepeska kukhumbikwa kwa munkhwala wakukoma vinyama."
+    },
+    {
+        "english": "Nitrogen fixation",
+        "meaning": "The biological process by which certain bacteria convert atmospheric nitrogen into a usable form for plants, enriching the soil with this essential nutrient.",
+        "tumbuka": "Kunozga mupweya wa Nitrogen",
+        "ng'anamulo": "Nthowa iyo mabakiteriya ghanyake ghakusinthira nayitrogeni uyo wali mu mlengalenga kuŵa wakugwiliskira ntchito vyakumera, ndipo ivi vikupangiska kuti dongo liŵe na vyakurya vyakuzirwa ivi."
+    },
+    {
+        "english": "No-till farming",
+        "meaning": "A conservation tillage practice that involves planting crops without disturbing the soil through plowing or cultivation",
+        "tumbuka": "Ulimi wambura kulima",
+        "ng'anamulo": "Nthowa yakusungirako dongo iyo yikusazgapo kupanda vipambi kwambura kutimbanizga dongo kwizira mu kulima panji kulima ."
+    },
+    {
+        "english": "Orcharding",
+        "meaning": "The cultivation of fruit trees or orchard crops, including practices such as pruning, thinning, and pest management specific to tree fruit production.",
+        "tumbuka": "Kulima vipambi",
+        "ng'anamulo": "Kulima makuni gha vipambi panji vipambi vya mu munda, kusazgapo mikhaliro nga nkhudumula, kuchepeska, na kupwelelera vinyama vyakukhwaskana na vipambi vya makuni."
+    },
+    {
+        "english": "Organic certification",
+        "meaning": "The process by which a farm or food production operation is verified to meet specific organic standards and is authorized to use the organic label.",
+        "tumbuka": "Kupima uchilengiwe wa vyakulya",
+        "ng'anamulo": "Nthowa iyo famu panji ntchito yakupanga vyakurya yikuwonekera kuti yikukwaniska vigaŵa vinyake vya vyakumera ndipo yikuzomerezgeka kugwiliskira ntchito chimanyikwiro cha vyakumera."
+    },
+    {
+        "english": "Organic farming",
+        "meaning": "A holistic farming approach that avoids the use of synthetic fertilizers, pesticides, and genetically modified organisms (GMOs), focusing on soil health and ecological sustainability.",
+        "tumbuka": "Ulimi wa vinyama",
+        "ng'anamulo": "Nthowa ya ulimi wakukwana iyo yikuleka kugwiliskira ntchito feteleza wakupangika na ŵanthu, munkhwala wakukoma vinyama, na vyamoyo ivyo vyasinthika (GMOs), ndipo yikuŵika mtima pa umoyo wa dongo na kuvikilira chilengiwa."
+    },
+    {
+        "english": "Pasture rotation",
+        "meaning": "The practice of moving livestock to different grazing areas in a planned sequence to allow for rest and recovery of pastures and prevent overgrazing.",
+        "tumbuka": "Kusinthana kwa malo ghakuliskako viŵeto",
+        "ng'anamulo": "Kusinthana kwa malo ghakuliskako viŵeto: Nthowa yakusunthira viŵeto ku malo ghakupambanapambana ghakuliskako viŵeto mu ndondomeko yakunozga kuti viŵe na mwaŵi wakupumulira na kusangaso malo ghakuliskako viŵeto na kupeŵa kuliska viŵeto mwakujumphizga."
+    },
+    {
+        "english": "Permaculture",
+        "meaning": "A design system that aims to create sustainable and self-sufficient ecosystems by imitating natural patterns and processes.",
+        "tumbuka": "Ulimi wakutola kendelo ka vinthu mu chilengiwe",
+        "ng'anamulo": "Nthowa yakupangira vinthu iyo yikukhumba kupanga vyakumera ivyo vikukhalilira ndiposo ivyo vikujipwelelera mwa kuyezga umo vinthu vikuŵira na ndondomeko za chilengiwa."
+    },
+    {
+        "english": "Pest resistance",
+        "meaning": "The ability of certain crops or plants to resist or tolerate damage from pests, reducing the need for chemical pesticides.",
+        "tumbuka": "Kulimbana na vinyama",
+        "ng'anamulo": "Nkhongono ya vipambi panji vyakumera vinyake kuti vileke panji kuzizipizga ivyo vikunangika na vinyama, ndipo ivi vikupangiska kuti ŵaleke kukhumbikwira munkhwala wakukoma vinyama."
+    },
+    {
+        "english": "Pesticide",
+        "meaning": "A substance used to control or eliminate pests, including insects, weeds, and diseases, that can harm crops or livestock.",
+        "tumbuka": "Munkhwala wakukoma vinyama",
+        "ng'anamulo": "Ni chinthu icho ŵakugwiliskira ntchito kuti ŵaleke panji kukoma vinyama, kusazgapo vinyama, utheka, na matenda, ivyo vingananga vipambi panji viŵeto."
+    },
+    {
+        "english": "Photoperiod",
+        "meaning": "The duration of light and dark periods in a 24-hour cycle, which affects plant growth, flowering, and other physiological processes.",
+        "tumbuka": "Utali wa ugwelu wa Zuba",
+        "ng'anamulo": "Nyengo ya ungweru na mdima mu msinkhu wa maora 24, iyo yikukhwaska kukura kwa vyakumera, maluŵa, na vinyake ivyo vikuchitika mu thupi."
+    },
+    {
+        "english": "Planting density",
+        "meaning": "The number of plants or trees per unit area in a crop field or orchard, which affects crop yield, competition, and resource use efficiency.",
+        "tumbuka": "Unandi wa vyakumela pa malo",
+        "ng'anamulo": "Chiŵelengero cha vyakumera panji makuni pa unit area mu munda wa vipambi panji mu munda wa vipambi, ivyo vikukhwaska vipambi vya vipambi, mpikisano, na kugwiliskira ntchito makora vinthu."
+    },
+    {
+        "english": "Pollination",
+        "meaning": "The transfer of pollen from the male reproductive organs to the female reproductive organs of flowering plants, essential for fruit and seed production.",
+        "tumbuka": "kagawilo ka mbuto ya vyakumela",
+        "ng'anamulo": "Kusamuska pollen kufuma ku viŵaro vyakubaba vya ŵanalume kuya ku viŵaro vyakubaba vya ŵanakazi vya vyakumera vya maluŵa, ivyo vikukhumbikwa kuti vipambi na mbuto viŵeko."
+    },
+    {
+        "english": "Polyculture",
+        "meaning": "The cultivation of multiple crop species or varieties together in the same area, promoting biodiversity and reducing the risk of crop failure.",
+        "tumbuka": "Ulimi wa mbewu zakulekana lekana pa malo yamoza",
+        "ng'anamulo": "Kulima mitundu yinandi ya vipambi panji mitundu ya vipambi pamoza mu malo ghamoza, kukhozga vyamoyo vyakupambanapambana na kuchepeska ngozi ya kutondeka kwa vipambi."
+    },
+    {
+        "english": "Polytunnel",
+        "meaning": "A type of greenhouse structure covered with a single layer of polyethylene or similar material, used for season extension and crop protection.",
+        "tumbuka": "Mtundu wa nyumba ya ulimi yakwendela zuba",
+        "ng'anamulo": "Mtundu wa nyumba ya greenhouse iyo yikuvikilirika na polyethylene yimoza panji vinthu vinyake vyanthena ivi, ivyo vikugwiriskirika nchito kuti nyengo yiŵe yitali na kuvikilira vipambi."
+    },
+    {
+        "english": "Precision agriculture",
+        "meaning": "The use of technology and data-driven methods to optimize farming practices, including planting, irrigation, and pest control.",
+        "tumbuka": "Ulimi wakukwana",
+        "ng'anamulo": "Kugwiliskira ntchito tekinoloje na nthowa zakulongozgeka na data kuti ŵachitenge makora ulimi, kusazgapo kupanda, kuthilira, na kulimbana na vinyama."
+    },
+    {
+        "english": "Precision farming",
+        "meaning": "The use of advanced technologies, such as GPS and remote sensing, to optimize farm management practices, including seeding, fertilizing, and irrigation, for increased efficiency and productivity.",
+        "tumbuka": "Ulimi wakukwana",
+        "ng'anamulo": "Kugwiliskira ntchito vinthu vyasono nga ni GPS na remote sensing, kuti ŵachitenge makora pa mulimo wa kupwelelera famu, kusazgapo kuseŵa mbuto, kuŵika manyowa, na kuthilira, kuti ŵachitenge makora na kupanga vipambi vinandi."
+    },
+    {
+        "english": "Regenerative agriculture",
+        "meaning": "An approach to farming that focuses on restoring and enhancing ecosystem health, biodiversity, and soil fertility, often through practices like cover cropping, rotational grazing, and composting.",
+        "tumbuka": "Ulimi wakuwezgerapo",
+        "ng'anamulo": "Nthowa ya ulimi iyo yikuŵika mtima pa kuwezgerapo na kukhozga umoyo wa vyakumera na vyamoyo, vyamoyo vyakupambanapambana, na chonde cha dongo, kanandi kwizira mu nthowa nga nkhubenekelera vipambi, kuliska viŵeto mwakusinthana, na kupanga manyowa."
+    },
+    {
+        "english": "Regenerative grazing",
+        "meaning": "A grazing management practice that mimics natural herd movements and allows for rest and recovery of pastures, improving soil health and biodiversity.",
+        "tumbuka": "Uliska wakuwezgeleska msipu",
+        "ng'anamulo": "Nthowa yakupwelelera viŵeto iyo yikuyezga umo mskambo ukuchitira na chilengiwa ndipo yikupangiska kuti vipumule na kuwelera kwa viŵeto, kupangiska kuti dongo liŵe liwemi na vyamoyo vyakupambanapambana."
+    },
+    {
+        "english": "Riparian zone",
+        "meaning": "The transitional area between land and a river or stream, characterized by unique vegetation and ecological functions.",
+        "tumbuka": "Malo yamumphepete mwa mlonga",
+        "ng'anamulo": "Malo ghakusintha pakati pa charu na mlonga panji mlonga, ghakumanyikwa na vyakumera vyapadera na milimo ya chilengiwa."
+    },
+    {
+        "english": "Rotational grazing",
+        "meaning": "A livestock management practice that involves regularly moving animals between different pastures or paddocks to optimize forage utilization and improve soil health.",
+        "tumbuka": "Kuliska viŵeto mwakusinthana",
+        "ng'anamulo": "Nthowa yakupwelelera viŵeto iyo yikukhwaskana na kusuntha vinyama nyengo zose pakati pa malo ghakupambanapambana ghakuliskako viŵeto panji viŵeto kuti vigwiriskike nchito makora na kunozga dongo."
+    },
+    {
+        "english": "Rural development",
+        "meaning": "Initiatives and strategies aimed at improving economic, social, and environmental conditions in rural areas, including support for agriculture and rural communities.",
+        "tumbuka": "Kutukula kwa mizi",
+        "ng'anamulo": "Nthowa na ndondomeko izo zikukhumba kukhozga chuma, umoyo, na chilengiwa mu mizi, kusazgapo wovwiri wa ulimi na ŵanthu ŵa ku mizi."
+    },
+    {
+        "english": "Seed saving",
+        "meaning": "The practice of collecting and storing seeds from open-pollinated or heirloom plants for future planting, preserving genetic diversity and self-sufficiency.",
+        "tumbuka": "Kusunga mbuto",
+        "ng'anamulo": "Nthowa yakuwunganya na kusunga mbuto kufuma ku vyakumera ivyo vikupangika na pollen panji vyakumera vyakukhalira kuti vibzalike munthazi, kusunga mitundu yakupambanapambana ya majini na kujikwaniska."
+    },
+    {
+        "english": "Seedling",
+        "meaning": "A young plant that has recently emerged from a seed and is ready for transplanting or further growth.",
+        "tumbuka": "Mbewu",
+        "ng'anamulo": "Chakumera chichoko icho chafuma sonosono apa kufuma mu mbuto ndipo chikunozgeka kuŵikika panji kukuraso."
+    },
+    {
+        "english": "Silage",
+        "meaning": "Fermented and preserved fodder, such as corn or grass, used as animal feed.",
+        "tumbuka": "Msipu wakomila",
+        "ng'anamulo": "Vyakurya vya vinyama ivyo vikupangika na nthukumusi na kusungika, nga ni chimanga panji utheka, ivyo vikugwiriskirika nchito nga ni vyakurya vya vinyama."
+    },
+    {
+        "english": "Small-scale farming",
+        "meaning": "Agricultural production carried out on a small land area and with limited resources, often focused on local markets and sustainable practices.",
+        "tumbuka": "Ulimi wa pa minda yichoko yichoko",
+        "ng'anamulo": "Ulimi wa pa mlingo uchoko: Ulimi uwo ukuchitika pa malo ghachoko ndiposo pa vinthu vichoko waka, kanandi ukuŵika chomene mtima pa misika ya mu chigaŵa na ndondomeko zakukhaliska."
+    },
+    {
+        "english": "Soil amendment",
+        "meaning": "Any material added to soil to improve its physical, chemical, or biological properties, such as compost, manure, or lime.",
+        "tumbuka": "Kusintha dongo",
+        "ng'anamulo": "Chinthu chilichose icho ŵakusazgako pa dongo kuti liŵe liwemi, liŵe lakutowa, panji liŵe na vyamoyo, nga ni manyowa, manyowa, panji laimu."
+    },
+    {
+        "english": "Soil conservation",
+        "meaning": "Practices and techniques aimed at preventing soil erosion, maintaining soil fertility, and protecting soil resources for long-term productivity.",
+        "tumbuka": "Kusunga dongo",
+        "ng'anamulo": "Nthowa na nthowa izo zikupangiska kuti dongo lileke kukokoloka, kusunga dongo kuti liŵe lakunozga, na kuvikilira vinthu ivyo vili mu dongo kuti viŵe na vyakumera vya nyengo yitali."
+    },
+    {
+        "english": "Soil erosion",
+        "meaning": "The wearing away or removal of the topsoil layer by wind, water, or human activities, leading to reduced soil fertility and environmental degradation.",
+        "tumbuka": "Kusefukira kwa dongo",
+        "ng'anamulo": "Kuvunda panji kufumiskikapo kwa dongo la pachanya na mphepo, maji, panji ivyo ŵanthu ŵakuchita, ndipo ivi vikupangiska kuti dongo lileke kuŵa na chonde ndiposo kuti chilengiwa chileke kunangika."
+    },
+    {
+        "english": "Soil fertility",
+        "meaning": "The capacity of soil to provide essential nutrients, moisture, and a favorable environment for plant growth.",
+        "tumbuka": "Chonde cha dongo",
+        "ng'anamulo": "Nkhongono ya dongo yakupelekera vyakurya vyakuzirwa, chinyezi, na environment kuti vyakumera vikule."
+    },
+    {
+        "english": "Soil organic matter",
+        "meaning": "The decaying plant and animal material in the soil, including decomposed organic residues, which plays a vital role in soil fertility and structure.",
+        "tumbuka": "Vinthu vyakumera mu dongo",
+        "ng'anamulo": "Vinthu vyakuvunda vyakumera na vinyama ivyo vili mu dongo, kusazgapo vyakumera ivyo vikuvunda, ivyo vikovwira chomene kuti dongo liŵe lakunozga na kupangika."
+    },
+    {
+        "english": "Subsistence farming",
+        "meaning": "A type of farming in which the primary goal is to produce enough food to meet the needs of the farmer and their family, with little surplus for sale or trade.",
+        "tumbuka": "Ulimi wakukhalira",
+        "ng'anamulo": "Mtundu wa ulimi uwo chilato chikuru nkhupanga vyakurya vyakukwana kuti mulimi na mbumba yake ŵasange ivyo ŵakukhumba, ndipo palije vyakurya vichoko waka vyakuguliska panji kuguliska."
+    },
+    {
+        "english": "Swale",
+        "meaning": "A shallow, sloping ditch or depression created on the land to capture and retain water, reducing erosion and promoting water infiltration.",
+        "tumbuka": "Mumphepete mwa mzele",
+        "ng'anamulo": "Msewu wakuzika, wakupendera panji mlonga uwo ukupangika pa charu kuti maji ghakole na kusunga, kuchepeska kusefukira kwa maji na kupangiska kuti maji ghanjiremo."
+    },
+    {
+        "english": "Tilapia",
+        "meaning": "A freshwater fish species commonly raised in aquaculture systems for human consumption.",
+        "tumbuka": "Chambo",
+        "ng'anamulo": "Mtundu wa somba ya maji ghawemi iyo yikuŵeteka chomene mu malo ghakulimamo somba za mu maji kuti ŵanthu ŵaryenge."
+    },
+    {
+        "english": "Tillage",
+        "meaning": "The preparation of soil for planting by mechanical manipulation, such as plowing or cultivating.",
+        "tumbuka": "Kudipula",
+        "ng'anamulo": "Kunozga dongo kuti lipambike mwa kugwiliskira ntchito makina, nga nkhulima panji kulima."
+    },
+    {
+        "english": "Urban farming",
+        "meaning": "The practice of growing and producing food within urban areas, often utilizing small spaces, rooftops, or vertical growing systems.",
+        "tumbuka": "Ulimi wa mu misumba",
+        "ng'anamulo": "Utchito ya kulima na kupanga vyakurya mukati mwa misumba, kanandi ŵakugwiliskira ntchito malo ghachoko waka, pachanya pa nyumba, panji nthowa zakulima zakuyimilira."
+    },
+    {
+        "english": "Vermicompost",
+        "meaning": "Compost produced through the activity of earthworms, which enhances soil fertility and provides valuable nutrients for plants.",
+        "tumbuka": "manyowa yakupangika na nyongolosi",
+        "ng'anamulo": "Kompositi iyo yikupangika kwizira mu milimo ya mphutsi za mu dongo, iyo yikupangiska kuti dongo liŵe lakunozga ndiposo yikupereka vyakurya vyakuzirwa vya vyakumera."
+    },
+    {
+        "english": "Vermiculture",
+        "meaning": "The process of using earthworms to decompose organic waste into nutrient-rich vermicompost.",
+        "tumbuka": "ulimi waku gwiliska ntchito nyongolosi kupangila manyowa",
+        "ng'anamulo": "Nthowa yakugwiliskira ntchito mphutsi za mu dongo kuti zivunde vyakuvunda vyakupangika na vyakumera kuti viŵe nga ni vermicompost iyo yili na vyakurya vinandi."
+    },
+    {
+        "english": "Water conservation",
+        "meaning": "Practices and strategies aimed at reducing water usage and preserving water resources, such as efficient irrigation techniques and rainwater harvesting.",
+        "tumbuka": "Kusunga maji",
+        "ng'anamulo": "Nthowa na ndondomeko izo zikukhumba kuchepeska ntchito ya maji na kusunga vinthu vya maji, nga ni nthowa ziwemi zakuthilira na kuvuna maji gha vula."
+    },
+    {
+        "english": "Waterlogging",
+        "meaning": "The condition in which soil becomes saturated with water, leading to reduced oxygen availability for plant roots and potential crop damage.",
+        "tumbuka": "Kuzura kwa maji",
+        "ng'anamulo": "Nthaŵi iyo dongo likuzura na maji, ndipo ivi vikupangiska kuti mphepo ya oxygen yileke kuŵapo ku misisi ya vyakumera ndiposo kuti vipambi vingananga."
+    },
+    {
+        "english": "Weed control",
+        "meaning": "The management and suppression of unwanted plants (weeds) that compete with cultivated crops for resources such as water, nutrients, and sunlight.",
+        "tumbuka": "Kulimbana na utheka",
+        "ng'anamulo": "Kulaŵilira na kuponderezga vyakumera ivyo vikukhumbikwa yayi (utheka) ivyo vikuchita mpikisano na vipambi ivyo vikulimika kuti visangike na vinthu nga ni maji, vyakurya, na ungweru wa dazi."
+    },
+    {
+        "english": "Weed suppression",
+        "meaning": "Techniques or practices used to control or minimize weed growth in agricultural fields or gardens, such as mulching, crop rotation, or mechanical weed removal.",
+        "tumbuka": "Kuponderezga utheka",
+        "ng'anamulo": "Nthowa panji ndondomeko izo zikugwiriskirika nchito kuti utheka uleke kukura panji kucepeskeka mu minda ya ulimi panji mu minda, nga nkhuŵika mchenga, kusinthasintha vipambi, panji kuwuskapo utheka na makina."
+    },
+    {
+        "english": "Windbreak",
+        "meaning": "A barrier, such as rows of trees or shrubs, strategically planted to protect crops, livestock, or buildings from strong winds.",
+        "tumbuka": "Chitetezo cha mphepo",
+        "ng'anamulo": "Chitetezo, nga ni mizere ya makuni panji vimiti, ivyo vikupanda mwamahara kuti vivikilire vipambi, viŵeto, panji nyumba ku mphepo yankhongono."
+    },
+    {
+        "english": "Wind energy",
+        "meaning": "The conversion of wind power into electricity using wind turbines, which can be used to generate renewable energy on farms.",
+        "tumbuka": "Nkhongono ya mphepo",
+        "ng'anamulo": "Kusintha nkhongono ya mphepo kuŵa magesi mwakugwiliskira ntchito ma turbine gha mphepo, agho ghangagwiliskirika ntchito kuti ghapangiske nkhongono zakuzgoŵezgeka mu mafamu."
+    },
+    {
+        "english": "Winter cover crop",
+        "meaning": "A cover crop species or mixtures planted during the winter season to protect and improve the soil during fallow periods.",
+        "tumbuka": "Mbewu yakupanda nyengo yakuzizima",
+        "ng'anamulo": "Mtundu wa vipambi vyakubenekelera panji vyakusakanizga ivyo vikupanda mu nyengo ya chiwuvi kuti vivikilire na kunozga dongo mu nyengo za fallow."
+    },
+    {
+        "english": "Worm farm",
+        "meaning": "A system or facility designed for the controlled breeding and management of earthworms, often for the production of vermicompost or bait worms.",
+        "tumbuka": "Nyongolosi zamu mumda",
+        "ng'anamulo": "Nthowa panji malo agho ghapangika kuti ghaŵe na mphutsi zakulongozgeka na kupwelelera mphutsi za mu dongo, kanandi ghakupangira vermicompost panji mphutsi za nyambo."
+    },
+    {
+        "english": "Xenobiotics",
+        "meaning": "Chemical substances that are foreign to an organism's normal biochemistry or metabolism, often referring to synthetic or human-made chemicals.",
+        "tumbuka": "mankhwala ya nyama",
+        "ng'anamulo": "Vinthu vya kemiko ivyo ni vyachilendo ku biochemistry panji metabolism ya vyamoyo, kanandi vikuyowoya za makemikolo ghakupangika panji ghakupangika na ŵanthu."
+    },
+    {
+        "english": "Xeriscaping",
+        "meaning": "Landscaping or gardening in a way that reduces or eliminates the need for supplemental water, often using drought-tolerant plants and water-conserving techniques.",
+        "tumbuka": "kunozga munda wanthilila",
+        "ng'anamulo": "Kupanga malo panji kupanga munda mu nthowa iyo yikuchepeska panji kuwuskapo kukhumbikwa kwa maji ghakusazgikira, kanandi ŵakugwiliskira ntchito vyakumera ivyo vikuzizipizga chilala na nthowa zakusungirako maji."
+    },
+    {
+        "english": "Yields per hectare",
+        "meaning": "The amount of agricultural produce obtained from a specific area of land, typically measured in weight or volume per hectare (unit of land area).",
+        "tumbuka": "Vipambi pa hekitala",
+        "ng'anamulo": "Unandi wa vipambi vya ulimi ivyo vikusangika mu malo ghanyake, kanandi vikupimika mu kulemera panji unandi pa hekitala (unit of land area)."
+    },
+    {
+        "english": "Zero tillage",
+        "meaning": "A conservation tillage practice that eliminates or minimizes soil disturbance during planting, preserving soil structure and reducing erosion.",
+        "tumbuka": "Kwambula kudipula",
+        "ng'anamulo": "Nthowa yakusunga dongo iyo yikuwuskapo panji kuchepeska kusokonezgeka kwa dongo pa nyengo yakupanda, kusunga kapangikiro ka dongo na kuchepeska kukokoloka kwa dongo."
+    },
+    {
+        "english": "Developing  country",
+        "meaning": "A  lowly-industrialised  country  usually  with  a  poor  performing  economy  that  is  usually  primarily  based  on  agriculture.  The  average  income  for  an  individual  is  often  less  than  $2  a  day.",
+        "tumbuka": "Charu  icho  chikutukuka",
+        "ng'anamulo": "Charu  icho  chili  na  mafakitale  ghachoko  chomene  ndipo  kanandi  chuma  chake  chikuchita  makora  yayi  ndipo  kanandi  chikuthemba  chomene  pa  ulimi.  Kanandi  ndalama  izo  munthu  wakusanga  zikuŵa  pasi  pa  madola  ghaŵiri  pa  zuŵa."
+    },
+    {
+        "english": "Ecological",
+        "meaning": "Practices  that  care  for  and/or  work  in  harmony  with  the  environment.",
+        "tumbuka": "Vyakukolelana na chilengiwa",
+        "ng'anamulo": "Mikhaliro  iyo  yikupwelelera  na/panji  kugwira  ntchito  mwakukolerana  na  chilengiwa."
+    },
+    {
+        "english": "Erosion  (soil)",
+        "meaning": "The  weathering  of  the  earth,  often  by  wind,  water  or  farming  practices  which  often  results  in  the  loss  of  topsoil.",
+        "tumbuka": "Kukokoloka kwa dongo  (dongo)",
+        "ng'anamulo": "Kusintha  kwa  nyengo  kwa  charu,  kanandi  na  mphepo,  maji  panji  nthowa  za  ulimi  izo  kanandi  zikupangiska  kuti  dongo  la  pachanya  lileke  kuŵapo."
+    },
+    {
+        "english": "Extreme  weather",
+        "meaning": "Severe  weather  events  that  are  unusual  or  unseasonal.",
+        "tumbuka": "Nyengo  yiheni  chomene",
+        "ng'anamulo": "Nyengo  ziheni  chomene  izo  zikuchitika  mwachilendo  panji  zambura  nyengo."
+    },
+    {
+        "english": "Factory  farming",
+        "meaning": "A  method  of  intensive  farming  where  animals  are  raised  in  confinement,  often  indoors,  in  order  to  maximize  their  growth  rate  for  maximum  profit. Also  known  as  industrial  animal  farming.",
+        "tumbuka": "Ulimi  wa  mafakitale",
+        "ng'anamulo": "Nthowa  yakulima  chomene  apo  vinyama  vikuŵeta  mu  vipinda  vyakujalirika,  kanandi  mu  nyumba,  mwakuti  vikule  chomene  kuti  visangirepo  phindu  likuru.  Kweniso  ŵakumanyikwa  kuti  ulimi  wa  vinyama  wa  mafakitale."
+    },
+    {
+        "english": "Fairtrade",
+        "meaning": "A  model  of  trade  where  the  price  for  produce  is  raised  and  maintained  to  cover  the  costs  of  sustainable  production,  empower  farmers  and  encourage  environmental  and  sustainable  farming  practices.",
+        "tumbuka": "Malonda ghakwenelera",
+        "ng'anamulo": "Chiyelezgero  cha  malonda  apo  mtengo  wa  vyakumera  ukukwezgeka  na  kusungika  kuti  ukwaniske  ndalama  zakupanga  vyakumera  vyakukhaliska,  kupereka  nkhongono  ku  ŵalimi  na  kukhozgera  nthowa  za  ulimi  zakukhwaskana  na  chilengiwa  na  zakukhaliska."
+    },
+    {
+        "english": "Farm  to  Fork",
+        "meaning": "A  term  used  to  describe  the  path  of  produce  from  where  it  is  grown  to  where  it  is  consumed.",
+        "tumbuka": "Chakufumila ku ulimi",
+        "ng'anamulo": "Lizgu  ilo  likugwiriskirika  nchito  pakuyowoya  za  nthowa  iyo  vyakumera  vikujumpha  kufuma  apo  vikulimika  kufika  apo  vikuryeka."
+    },
+    {
+        "english": "Farmer",
+        "meaning": "Someone  who  grows  produce  or  animals  for  consumption.",
+        "tumbuka": "Mulimi",
+        "ng'anamulo": "Munthu  uyo  ​​wakulima  vyakumera  panji  vinyama  kuti  waryenge."
+    },
+    {
+        "english": "Farm  management  software",
+        "meaning": "Software  that  helps  farmers  to  manage  all  farm  activities,  finances,  inventory  and  analyze  farm  performance.",
+        "tumbuka": "Mapulogalamu  ghakulongozgera  famu",
+        "ng'anamulo": "Mapulogalamu  agho  ghakovwira  ŵalimi  kuti  ŵalongozgenge  milimo  yose  ya  pa  famu,  ndalama,  katundu  na  kusanda  umo  famu  yikuchitira."
+    },
+    {
+        "english": "Farmer's  market",
+        "meaning": "A  place  where  consumers  can  buy  produce  direct  from  farmers.",
+        "tumbuka": "Msika wa mulimi",
+        "ng'anamulo": "Malo  agho  ŵakugula  ŵangagura  vyakumera  mwaluŵiro  kufuma  ku  ŵalimi."
+    },
+    {
+        "english": "Food  desert",
+        "meaning": "Places  where  there  is  limited  or  no  access  for  the  community  to  fresh  and  healthy  food.",
+        "tumbuka": "Mapopa  gha  vyakurya",
+        "ng'anamulo": "Malo  agho  ŵanthu  ŵakusanga  yayi  vyakurya  viphya  na  vyakwenelera  panji  vichoko  waka."
+    },
+    {
+        "english": "Food  fraud",
+        "meaning": "Deceptive  practices  where  food  is  manipulated  and  sold  under  false  pretenses.",
+        "tumbuka": "Kupusika  vyakurya",
+        "ng'anamulo": "Nthowa  zakupusika  apo  ŵakupusika  vyakurya  na  kuguliska  mwakujibisa."
+    },
+    {
+        "english": "Food  industry",
+        "meaning": "The  activities  involved  in  growing,  production  and  selling  food  locally  and  globally.",
+        "tumbuka": "Malonda  gha  vyakurya",
+        "ng'anamulo": "Ntchito  izo  zikuchitika  pakulima,  kupanga  na  kuguliska  vyakurya  mu  charu  na  pa  charu  chose."
+    },
+    {
+        "english": "Food-like  product",
+        "meaning": "An  item  that  is  sold  as  food  to  be  eaten  but  has  little  resemblance  or  nutritional  value  to  the  raw  ingredients  from  which  it  was  made.  e.g.  a  Twinkie.",
+        "tumbuka": "Chinthu  icho  chikuyana  na  chakurya",
+        "ng'anamulo": "Chinthu  icho  ŵakuguliska  nga  ni  chakurya  chakuti  ŵaryenge  kweni  chikuyana  viŵi  yayi  panji  chikuŵa  na  vyakurya  vichoko  waka  na  vinthu  ivyo  ŵakachipangira.  Mwachiyelezgero  Twinkie."
+    },
+    {
+        "english": "Food  miles",
+        "meaning": "The  distance  between  where  food  is  grown  to  where  it  is  consumed.",
+        "tumbuka": "Mailosi  gha  vyakurya",
+        "ng'anamulo": "Mtunda  uwo  uli  pakati  pa  apo  vyakurya  vikulimika  na  apo  vikuryeka."
+    },
+    {
+        "english": "Food  security",
+        "meaning": "A  situation  where  the  continual  supply  of  food  to  feed  a  population  is  stable.",
+        "tumbuka": "Kuŵa  na  vyakurya",
+        "ng'anamulo": "Nthaŵi  iyo  vyakurya  vyakukhalilira  vyakulyeska  ŵanthu  vikukhazikika."
+    },
+    {
+        "english": "Food  shortage",
+        "meaning": "The  lack  of  sufficient  food  to  meet  demand.",
+        "tumbuka": "Kusoŵa  kwa  vyakurya",
+        "ng'anamulo": "Kusoŵa  kwa  vyakurya  vyakukwana  kuti  ŵanthu  ŵasange  ivyo  ŵakukhumba."
+    },
+    {
+        "english": "Food  sovereignty",
+        "meaning": "The  right  of  people  to  control  and  define  their  own  food  systems  and  policies,  without  influence  from  corporations  and  governments.",
+        "tumbuka": "Kujiyimira  paŵekha  pa  vyakurya",
+        "ng'anamulo": "Wanangwa  wa  ŵanthu  wakulaŵilira  na  kulongosora  ndondomeko  na  ndondomeko  zawo  za  vyakurya,  kwambura  kukhuŵilizgika  na  makampani  na  boma."
+    },
+    {
+        "english": "Free-range",
+        "meaning": "A  method  of  farming  which  allows  animals  access  to  an  outdoor  area  for  a  minimum  time  period.",
+        "tumbuka": "Kuliska viŵeto",
+        "ng'anamulo": "Nthowa  ya  ulimi  iyo  yikupangiska  kuti  vinyama  viŵe  na  mwaŵi  wa  kufika  pa  malo  gha  kuwaro  kwa  nyengo  yichoko  waka."
+    },
+    {
+        "english": "GAP  (Good  Agricultural  Practices)",
+        "meaning": "These  are  specific  farming  techniques  that  help  to  grow  food  that  is  safe  and  sustainable,  whilst  caring  for  the  long  term  health  of  the  land  and  environment.",
+        "tumbuka": "Nthowa  Ziwemi  za  Ulimi",
+        "ng'anamulo": "Iyi  ni  nthowa  zapadera  za  ulimi  izo  zikovwira  kulima  vyakurya  ivyo  ni  vyakuvikilirika  na  vyakukhaliska,  uku  vikupwelelera  umoyo  wa  nyengo  yitali  wa  charu  na  chilengiwa."
+    },
+    {
+        "english": "GMO  (Genetically  Modified  Organism)",
+        "meaning": "An  organism  whose  DNA  has  been  genetically  engineered  for  select  characteristics  deemed  favorable.",
+        "tumbuka": "Chamoyo  Chakusinthika  na  Majini",
+        "ng'anamulo": "Chamoyo  icho  DNA  yake  yasinthika  kuti  yiŵe  na  mikhaliro  yakusankhika  iyo  yikuwoneka  kuti  njakwenelera."
+    },
+    {
+        "english": "Hyper-local  food",
+        "meaning": "Food  grown  and  eaten  in  the  same  place  with  extremely  low  food  miles.  e.g.  restaurant  roof-top  farming.",
+        "tumbuka": "Kulya vyakulima malo yeneghagho",
+        "ng'anamulo": "Vyakurya  ivyo  vikulimika  na  kuryeka  mu  malo  ghamoza  na  mamailosi  gha  vyakurya  ghachoko  chomene.  Mwachiyelezgero  ulimi  wa  padenga  la  resitiranti."
+    },
+    {
+        "english": "Independent  farmer",
+        "meaning": "A  farmer  who  owns  and  operates  their  farm  with  minimal  influence  from  organizations.",
+        "tumbuka": "Mulimi  wakujiyimira  payekha",
+        "ng'anamulo": "Mulimi  uyo  wali  na  famu  yake  ndipo  wakuyigwiliskira  ntchito  kwambura  kukhuŵilizgika  chomene  na  mabungwe."
+    },
+    {
+        "english": "Local  food",
+        "meaning": "Food  which  is  consumed  close  to  where  it  was  grown.",
+        "tumbuka": "Vyakurya  vya  ku  malo  agha",
+        "ng'anamulo": "Vyakurya  ivyo  vikuryeka  pafupi  na  apo  vikalimika."
+    },
+    {
+        "english": "Medicinal  produce",
+        "meaning": "Produce  that  is  grown  for  alternative  medicine  and  the  pharmaceutical  industry.",
+        "tumbuka": "Vinthu  vyakupangika  na  munkhwala",
+        "ng'anamulo": "Vinthu  ivyo  vikulimika  kuti  vipangike  munkhwala  unyake  na  vyakupangapanga  vya  munkhwala."
+    },
+    {
+        "english": "Multi-national  food  corporation",
+        "meaning": "A  company  which  makes  and  sells  food  and  operates  internationally.",
+        "tumbuka": "Multi-national  food  corporation",
+        "ng'anamulo": "Kampani  iyo  yikupanga  na  kuguliska  vyakurya  ndipo  yikugwira  ntchito  pa  charu  chose."
+    },
+    {
+        "english": "Natural fiber  produce",
+        "meaning": "Animal  or  plant  produce  grown  for  the  use  in  the  textile  industry.  e.g.  wool,  cotton,  bamboo,  cane  wicker.",
+        "tumbuka": "vyakupangika  na  ulusi  wachilengiwa",
+        "ng'anamulo": "Vinthu  vyakupangika  na  ulusi  Vinthu  vya  vinyama  panji  vyakumera  ivyo  vikulimika  kuti  vigwiriskike  ntchito  mu  mafakitale  ghakupanga  vyakuvwara.  Mwachiyelezgero  ubweya,  thonje,  bamboo,  wicker  wa  nzimbe."
+    },
+    {
+        "english": "Organic",
+        "meaning": "A  certification  given  to  produce  grown  without  the  use  of  synthetic  fertilizers  or  chemicals,  are  not  GMO  and  in  the  case  of  meat  –  the  animals  are  not  given  antibiotics  or  growth  hormones.",
+        "tumbuka": "Vyachilengiwa",
+        "ng'anamulo": "Chiphaso  icho  chikupelekeka  kuti  chipangiske  vyakumera  kwambura  kuseŵezeska  feteleza  wakupangika  panji  makemikolo,  ni  GMO  yayi  ndipo  pa  nkhani  ya  nyama  –  vinyama  vikupika  yayi  munkhwala  wakukoma  tuvilombo  panji  mahomoni  ghakukura."
+    },
+    {
+        "english": "Pasture-raised",
+        "meaning": "To  raise  animals  outside  in  their  natural  environment  (but  with  access  to  shelter)  where  they  are  able  to  forage  and  behave  according  to  their  natural  instincts.",
+        "tumbuka": "Kukuzga viweto kwizila mukuliska",
+        "ng'anamulo": "Kulera  vinyama  kuwaro  mu  malo  ghawo  ghacilengiwa  t  (kweni  na  mwaŵi  wa  kusanga  malo  ghakukhalamo)  uko  ŵakukwaniska  kupenja  vyakurya  na  kuchita  vinthu  mwakuyana  na  umo  ŵakukhumbira."
+    },
+    {
+        "english": "Produce",
+        "meaning": "Any  raw  or  whole  food,  drink,  medicinal  plant  or  natural  fiber  grown  by  farmers.",
+        "tumbuka": "Kupanga",
+        "ng'anamulo": "Chakurya  chilichose  chambura  kuphika  panji  chose,  vyakumwa,  chakumera  cha  munkhwala  panji  ulusi  wachilengiwa  uwo  ŵalimi  ŵakulima."
+    },
+    {
+        "english": "Re-seller",
+        "meaning": "A  person  who  acts  as  an  agent  between  farmer  and  buyers  in  the  produce  supply  chain.  They  often  add  value  through  distribution.",
+        "tumbuka": "Munthu  uyo  ​​wakuguliskaso",
+        "ng'anamulo": "Munthu  uyo  ​​Munthu  uyo  ​​wakuchita  nga  ni  wovwiri  pakati  pa  mulimi  na  ŵakugura  mu  ndondomeko  ya  kupeleka  vyakumera.  Kanandi  ŵakusazgapo  mtengo  kwizira  mu  kugaŵira."
+    },
+    {
+        "english": "Slow  food",
+        "meaning": "An  international  movement  which  values  food  that  is  prepared  following  local  culinary  traditions,  using  high  quality,  locally  sourced  ingredients.",
+        "tumbuka": "Vyakurya  vyakuchedwa",
+        "ng'anamulo": "Gulu  la  pa  charu  chose  ilo  likuwona  kuti  chakurya  icho  chikupangika  mwakuyana  na  mitheto  ya  ŵanthu  ŵa  ku  malo  agha,  ŵakugwiliskira  ntchito  vyakurya  vyapachanya,  ivyo  vikufuma  ku  malo  agha."
+    },
+    {
+        "english": "Small-holder  farmer",
+        "meaning": "Farmers  who  farm  land  under  two  hectares.",
+        "tumbuka": "Mulimi  wa  mulimi  muchoko",
+        "ng'anamulo": "Ŵalimi  awo  ŵakulima  malo  ghapasi  pa  mahekitala  ghaŵiri."
+    },
+    {
+        "english": "Ugly  fruit &  vegetables",
+        "meaning": "Produce  that  does  not  meet  food  presentation  standards,  often  set  by  supermarkets.",
+        "tumbuka": "Vipambi na masamba ghaheni",
+        "ng'anamulo": "Vipambi  ivyo  vikukolerana  yayi  na  ndondomeko  ya  kulongosora  vyakurya,  kanandi  vikuŵikika  na  masitolo  ghakurughakuru."
+    },
+    {
+        "english": "Whole-food",
+        "meaning": "Food  in  its  most  natural  state,  harvested  but  largely  unprocessed.",
+        "tumbuka": "Vyakurya  vyose",
+        "ng'anamulo": "Vyakurya  ivyo  vili  mu  kawonekero  kake  ka  chilengiwa,  vyakuvunwa  kweni  vinandi  vikupangika  yayi."
+    }
+]

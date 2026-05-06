@@ -1,0 +1,134 @@
+[
+    {
+        "english": "Hi!",
+        "meaning": "Simple and straightforward, 'hi' is often used as a quick greeting in English amongst friends, coworkers, and even family.",
+        "tumbuka": "Monile!",
+        "ng'anamulo": "Mwambura kusuzga ndiposo mwakudunjika, 'hi' kanandi ŵakumutawuzga mwaluŵiro mu Cingelezi pakati pa ŵabwezi, awo ŵakugwira nawo nchito, nanga mbabali ŵawo"
+    },
+    {
+        "english": "Hey, Heya or Hey there!",
+        "meaning": "This is another one of the best greetings to use amongst friends or acquaintances.",
+        "tumbuka": "Monile uko!",
+        "ng'anamulo": "Ici nchimoza mwa vitawuzgo viwemi comene ivyo mungagwiliskira nchito pakati pa ŵabwezi panji ŵabwezi ŵinu"
+    },
+    {
+        "english": "Morning!",
+        "meaning": "A more casual way of saying 'Good morning.'.",
+        "tumbuka": "Mwawuka wuli!",
+        "ng'anamulo": "Nthowa yakufwatuka comene yakuyowoyera kuti 'Muŵe na mulenji uwemi.'"
+    },
+    {
+        "english": "How are things?",
+        "meaning": "This is one of the more casual greeting phrases used in an exchange.",
+        "tumbuka": "Kasi vinthu vili wuli?",
+        "ng'anamulo": "Iyi njimoza mwa mazgu ghakutawuzga ghambura kumanyikwa agho ghakugwiriskirika ncito pakusinthana"
+    },
+    {
+        "english": "What's new?",
+        "meaning": "Similar to 'how are things?', 'what's new?' is simply a way of saying hello to someone you haven't talked to in a while.",
+        "tumbuka": "Kasi nchivichi chiphya?",
+        "ng'anamulo": "Kuyana waka na 'vinthu vili wuli?', 'nchivici ciphya?' ni nthowa waka yakutawuzgira munthu uyo ​​mwaŵa kuti mundayowoye nayo kwa nyengo yitali"
+    },
+    {
+        "english": "It's good to see you.",
+        "meaning": "As you may have assumed, this one is used when you haven't seen someone in a while.",
+        "tumbuka": "Ni viwemi kumuwonani",
+        "ng'anamulo": "Nga umo mungaghanaghanirapo, iyi yikugwiriskirika ncito para mwaŵa kuti mundamuwonepo munthu kwa nyengo yitali"
+    },
+    {
+        "english": "G'day!",
+        "meaning": "This is short for 'Good day,' typically used in Australia.",
+        "tumbuka": "Zuŵa liwemi!",
+        "ng'anamulo": "Ici nchifupikizgo ca 'Zuŵa Liwemi,' ilo kanandi ŵakugwiliskira nchito ku Australia"
+    },
+    {
+        "english": "Howdy!",
+        "meaning": "No list of English greetings vocabulary is complete without some unique variations. This is one that's commonly used in the southern regions of the United States.",
+        "tumbuka": "Monile!",
+        "ng'anamulo": "Palije mndandanda wa mazgu ghakutawuzga gha Chingelezi agho ghakukwana kwambura kusintha kwapadera. Iyi ndiyo nthowa iyo ŵakugwiliskira nchito comene mu vigaŵa vya kumwera kwa United States"
+    },
+    {
+        "english": "What's up?",
+        "meaning": "This can also be shortened to '‘Sup?'.",
+        "tumbuka": "Kasi nchi vichi?",
+        "ng'anamulo": "Ici cingafupikiskikaso kuŵa '‘mbuni?'"
+    },
+    {
+        "english": "How's it going?",
+        "meaning": "This is one of those types of greetings that doesn't always need to be taken literally.",
+        "tumbuka": "Kasi vikwenda wuli?",
+        "ng'anamulo": "Iyi njimoza mwa mitundu ya kutawuzga iyo nyengo zose yikukhumbikwira yayi kutoleka nga umo vikuŵira"
+    },
+    {
+        "english": "What's happening?",
+        "meaning": "Although a question, this type of greeting can be used in place of 'hello!'.",
+        "tumbuka": "Kasi nchivichi icho chikuchitika?",
+        "ng'anamulo": "Nangauli ni fumbo, kweni mtundu uwu wa kutawuzga ungagwiliskirika nchito m'malo mwa 'monile!'"
+    },
+    {
+        "english": "What's the story?",
+        "meaning": "This one is popular in Ireland.",
+        "tumbuka": "Kasi nkhani ni wuli?",
+        "ng'anamulo": "Iyi yikumanyikwa chomene ku Ireland"
+    },
+    {
+        "english": "Yo!",
+        "meaning": "Another one of the simplest greetings words you can use.",
+        "tumbuka": "Boh boh!",
+        "ng'anamulo": "Linyake mwa mazgu ghapusu ghakutawuzga agho mungagwiliskira nchito"
+    },
+    {
+        "english": "Hello!",
+        "meaning": "In formal greetings examples, hello is preferred to 'hi' or 'hey.'.",
+        "tumbuka": "Monile!",
+        "ng'anamulo": "Mu viyelezgero vya kutawuzga, monile wakutemwa chomene"
+    },
+    {
+        "english": "Hi there.",
+        "meaning": "This is a slightly less formal way to say hello, but still more appropriate than using 'hey.'.",
+        "tumbuka": "muli uli uko",
+        "ng'anamulo": "Iyi ni nthowa yambura kumanyikwa makora yakutawuzga, kweni njakwenelera comene kuluska kuyowoya kuti 'Boh.'"
+    },
+    {
+        "english": "Good morning.",
+        "meaning": "You can never go wrong when using 'good morning' in greeting sentences.",
+        "tumbuka": "Mwauka uli",
+        "ng'anamulo": "Mungabudiska yayi para mukugwiliskira nchito mazgu ghakuti 'muŵe na mulenji uwemi' pa mazgu ghakutawuzga"
+    },
+    {
+        "english": "Good afternoon.",
+        "meaning": "If greeting someone later in the day, this is a great option.",
+        "tumbuka": "Mwatandala uli",
+        "ng'anamulo": "Usange mukutawuzga munthu munyake pamanyuma pa zuŵa, ichi nchisankho chiwemi chomene"
+    },
+    {
+        "english": "Good evening.",
+        "meaning": "If greeting someone during the evening, use this option.",
+        "tumbuka": "Usiku uwemi",
+        "ng'anamulo": "Usange mukutawuzga munthu munyake mazuŵa ghano, gwiliskirani nchito nthowa iyi"
+    },
+    {
+        "english": "It's nice to meet you.",
+        "meaning": "Just don't say this one to someone you've met three times before!",
+        "tumbuka": "Ndine wakukondwa kukumana namwe",
+        "ng'anamulo": "Lekani kuyowoya waka fundo iyi kwa munthu uyo ​​mwakumana nayo katatu!"
+    },
+    {
+        "english": "It's a pleasure to meet you.",
+        "meaning": "Remember, these last two only work when you are meeting someone for the first time.",
+        "tumbuka": "Nkhukondwa chomene kukumana namwe",
+        "ng'anamulo": "Kumbukani kuti viŵiri vyaumaliro ivi vikugwira ntchito pekha para mukukumana na munthu kakwamba"
+    },
+    {
+        "english": "Have a good night.",
+        "meaning": "This is used when wishing someone a good night.",
+        "tumbuka": "Muwe na usiku uwemi",
+        "ng'anamulo": "Ici cikugwiriskirika ncito para munthu wakukhumbira munthu usiku uwemi"
+    },
+    {
+        "english": "have a blessed night.",
+        "meaning": "This is used when wishing someone a good night.",
+        "tumbuka": "Muwe na usiku wakutumbikika",
+        "ng'anamulo": "Ici cikugwiriskirika ncito para munthu wakukhumbira munthu usiku uwemi"
+    }
+]
